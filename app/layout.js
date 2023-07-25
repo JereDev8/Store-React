@@ -1,7 +1,16 @@
-import './globals.css'
-import { Inter } from 'next/font/google'
+'use client'
 
-const inter = Inter({ subsets: ['latin'] })
+import { Toaster } from 'react-hot-toast'
+import { IoIosCart } from 'react-icons/io'
+import './globals.css'
+import { Abel } from 'next/font/google'
+import Image from 'next/image'
+import styles from './page.module.css'
+import Link from 'next/link'
+import Footer from '@/components/Footer'
+import { useRouter } from 'next/navigation'
+
+const inter = Abel({ subsets: ['latin'], weight: ['400'] })
 
 export const metadata = {
   title: 'Create Next App',
@@ -9,9 +18,59 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
+
+  const router= useRouter()
+
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className && styles.main}>
+        <Toaster
+        position="top-center"
+        reverseOrder={false}
+        gutter={8}
+        containerClassName=""
+        containerStyle={{}}
+        toastOptions={{
+          // Define default options
+          className: '',
+          duration: 4000,
+          style: {
+            background: '#fff',
+            color: '#000',
+          },
+      
+          // Default options for specific types
+          success: {
+            duration: 2000,
+            theme: {
+              primary: 'green',
+              secondary: 'black',
+            },
+          },
+        }}/>
+        <Link href='/'> <Image
+          className={styles.logo}
+          src='/../public/imgs/logo.png'
+          width={150}
+          height={50}
+          alt='logo'
+        />
+        </Link>
+        <nav className={styles.navigation}>
+          <ul>
+            {/* <li> <Link href='/bags'>Bags</Link> </li>
+            <li> <Link href='/mens'>Mens</Link> </li>
+            <li> <Link href='/womens'>Womens</Link> </li>
+            <li> <Link href='/cart'><IoIosCart /> </Link> </li> */}
+            <li style={{cursor:'pointer'}} onClick={()=> router.push('/bags')} >  Bags </li>
+            <li style={{cursor:'pointer'}} onClick={()=> router.push('/mens')} >  Mens </li>
+            <li style={{cursor:'pointer'}} onClick={()=> router.push('/womens')} >  Womens </li>
+            <li style={{cursor:'pointer'}} onClick={()=> router.push('/cart')} >  <IoIosCart />  </li>
+          </ul>
+        </nav>
+        {children}
+        <Footer />
+      </body>
     </html>
   )
 }

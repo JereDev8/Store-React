@@ -1,0 +1,195 @@
+[
+    {
+        "id":1,
+        "genre":"female",
+        "name": "Campera Kris - Mia Denim",
+        "category":"women's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-1421-2bf8e85369a023cd1316860677477657-1024-1024.webp"
+    },
+    {
+        "id":2,
+        "genre":"female",
+        "name": "Buzo Corderito - Mia Denim",
+        "category":"women's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-10791-164954d7a16705042f16875323215549-1024-1024.webp"
+    },
+    {
+        "id":3,
+        "genre":"female",
+        "name": "Sweater Lines",
+        "category":"women's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-1641-3118d1e3c45ac307b416860690196869-1024-1024.webp"
+    },
+    {
+        "id":4,
+        "genre":"female",
+        "name": "Campera Margaret - Mia Denim",
+        "category":"women's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-2221-627d6d767c9326ebf116860708039550-1024-1024.webp"
+    },
+    {
+        "id":5,
+        "genre":"female",
+        "name": "Cartera Selene",
+        "category":"Mini Bags",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/129/496/products/20230630_1242581-2e2dee04b3d28b4ee116881399570500-320-0.webp"
+    },
+
+    {
+        "id":6,
+        "genre":"female",
+        "name": "Sobre Ari",
+        "category":"Mini Bags",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/129/496/products/20230629_1339321-9b75481c066f4e392616880569901804-320-0.webp"
+    },
+    {
+        "id":7,
+        "genre":"female",
+        "name": "Cartera Andy",
+        "category":"Mini Bags",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/129/496/products/20230629_1918521-55fdbf7f32e18d456a16880774703932-320-0.webp"
+    },
+    {
+        "id":8,
+        "genre":"female",
+        "name": "Carterita Vicky",
+        "category":"Mini Bags",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/129/496/products/20230629_1929361-dc61c23dc37ca6c07a16880779213156-320-0.webp"
+    },
+    {
+        "id":9,
+        "genre":"female",
+        "name": "Remera Golden Years",
+        "category":"women's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-2871-bf87a3888b6759b41116777733998469-1024-1024.webp"
+    },
+    {
+        "id":10,
+        "genre":"female",
+        "name": "Remera Better",
+        "category":"women's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-51911-1117590af03df0065116814984001134-1024-1024.webp"
+    },
+    {
+        "id":11,
+        "genre":"female",
+        "name": "Remera Mistery",
+        "category":"women's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-11841-b325b64203a7b452df16778707841820-1024-1024.webp"
+    },
+    {
+        "id":12,
+        "genre":"female",
+        "name": "Remera New Alexa",
+        "category":"women's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-7491-8748d8e35a3aec1d0216849348946895-1024-1024.webp"
+    },
+    {
+        "id":13,
+        "genre":"male",
+        "name": "Buzo Yosemite",
+        "category":"men's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-111-a19654713cc8b39e3216861519307458-1024-1024.webp"
+    },
+    {
+        "id":14,
+        "genre":"male",
+        "name": "Buzo Steven",
+        "category":"men's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-11971-06fe80ae7ecb4f2fde16861511217294-1024-1024.webp"
+    },
+    {
+        "id":15,
+        "genre":"male",
+        "name": "Buzo Jackson",
+        "category":"men's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-7421-eac519af2f9182a2a016861499417250-1024-1024.webp"
+    },
+    {
+        "id":16,
+        "genre":"male",
+        "name": "Buzo Iceberg",
+        "category":"men's coat",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-4621-31d48db29e04e18fec16861497340726-1024-1024.webp"
+    },
+    {
+        "id":17,
+        "genre":"male",
+        "name": "Remera Deserte",
+        "category":"men's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-3941-84ee1967f2130886b316860750429254-1024-1024.webp"
+    },
+    {
+        "id":18,
+        "genre":"male",
+        "name": "Remera Cooper-Soft",
+        "category":"men's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-14731-49c2d56b3205d742f516849388676609-1024-1024.webp"
+    },
+    {
+        "id":19,
+        "genre":"male",
+        "name": "Remera Cooper Azul",
+        "category":"men's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/fotoalta-33411-7f745b89bc53e7cba516830353080133-1024-1024.webp"
+    },
+    {
+        "id":20,
+        "genre":"male",
+        "name": "Remera Sam Azul",
+        "category":"men's t-shirt",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/fotoalta-2981-7baca61853406d856916830342835858-1024-1024.webp"
+    },
+    {
+        "id":21,
+        "genre":"male",
+        "name": "Camisa Fernando",
+        "category":"men's shirts",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-22051-69f1801b535f4864a816849392553155-1024-1024.webp"
+    },
+    {
+        "id":22,
+        "genre":"male",
+        "name": "Camisa Rock",
+        "category":"men's shirts",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-19261-08a5e7dff8cf0df8ba16849336466024-1024-1024.webp"
+    },
+    {
+        "id":23,
+        "genre":"male",
+        "name": "Camisa Clasica",
+        "category":"men's shirts",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-6681-5027f959a4884d92cb16826921571261-1024-1024.webp"
+    },
+    {
+        "id":24,
+        "genre":"male",
+        "name": "Camisa Denim",
+        "category":"men's shirts",
+        "price":34,
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/102/392/products/foto-3591-12b264b7bbf91971a516814906495501-1024-1024.webp"
+    }
+]
